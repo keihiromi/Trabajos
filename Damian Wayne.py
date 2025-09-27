@@ -77,6 +77,7 @@ Ha aprendido a sentir empatía, a valorar el trabajo en equipo, y, sobre todo, a
 En él vemos reflejado el potencial de redención más puro: el del que fue creado para matar, pero elige salvar._
 """
            )
-col1.image("fin.jpg", caption="**<<I know I'm supposed to be the bad son. The spoiled brat. The killer. But I don't want to be that anymore.>>   **")
+col1.image("fin.jpg", caption="**<<I know I'm supposed to be the bad son. The spoiled brat. The killer. But I don't want to be that anymore.>>**")
 
 col2.video("https://www.youtube.com/watch?v=ICOmWEVuM1U")
+
