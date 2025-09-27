@@ -8,7 +8,7 @@ st.header("")
 st.title(
 """
 Damian Wayne
-Si eres fanático del universo de DC Comics, seguramente conoces a Damian Wayne, el hijo biológico de Bruce Wayne y Talia al Ghul. Criado por la Liga de Asesinos y entrenado desde la infancia para ser un guerrero letal, Damian es el Robin más joven, pero también el más peligroso. Su historia es una de redención, identidad y lucha interna. Nacido en la oscuridad, pero guiado por la esperanza de ser mejor que su legado, Damian ha demostrado que ser un Wayne significa mucho más que heredar un manto: es luchar por lo correcto incluso cuando todo en ti grita lo contrario. Acompáñame a descubrir la historia de este impetuoso heredero del murciélago.8
+Si eres fanático del universo de DC Comics, seguramente conoces a Damian Wayne, el hijo biológico de Bruce Wayne y Talia al Ghul. Criado por la Liga de Asesinos y entrenado desde la infancia para ser un guerrero letal, Damian es el Robin más joven, pero también el más peligroso. Su historia es una de redención, identidad y lucha interna. Nacido en la oscuridad, pero guiado por la esperanza de ser mejor que su legado, Damian ha demostrado que ser un Wayne significa mucho más que heredar un manto: es luchar por lo correcto incluso cuando todo en ti grita lo contrario. Acompáñame a descubrir la historia de este impetuoso heredero del murciélago.
 """
 )
 
@@ -78,4 +78,5 @@ En él vemos reflejado el potencial de redención más puro: el del que fue crea
 """
            )
 col1.image("fin.jpg", caption="**<<I know I'm supposed to be the bad son. The spoiled brat. The killer. But I don't want to be that anymore.>>   **")
+
 col2.video("https://www.youtube.com/watch?v=ICOmWEVuM1U")
