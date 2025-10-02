@@ -7,7 +7,7 @@ st.title("Sobre nosotros")
 st.badge("nuevo", color="green")
 page_icon=":star:"
 
-# Sutítulo
+# Subtítulo
 st.header("DCuriosos, una página de aficionados y fanáticos", divider=True)
 st.image("cara.jpg", caption="hiiii:)")
 st.write(
@@ -20,4 +20,5 @@ No somos una gran corporación, sino un grupo de amigos y seguidores que crecimo
 Página anonima hasta mayor popularidad :'l
 """
     )
+
 st.audio("miedo.mp3")
