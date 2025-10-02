@@ -8,5 +8,7 @@ st.set_page_config(
     layout="centered",
 )
 
+#Incluir todas las páginas creadas anteriormente para hace un sólo sitio web con el contenido
 pg = st.navigation(["Inicio.py", "Dick Grayson.py", "Jason Todd.py", "Tim Drake.py", "Damian Wayne.py", "Sobre nosotros.py"])
+
 pg.run()
