@@ -20,7 +20,7 @@ st.badge("Página verificada y visitada por los más curiosos", color="red", ico
 
 st.divider()
 
- #Subtítulo y contenido
+ # Imagen del personaje,Subtítulo y contenido
 
 st.image("damian11.jpg")
 
@@ -86,6 +86,7 @@ En él vemos reflejado el potencial de redención más puro: el del que fue crea
 col1.image("fin.jpg", caption="**<<I know I'm supposed to be the bad son. The spoiled brat. The killer. But I don't want to be that anymore.>>**")
 
 col2.video("https://www.youtube.com/watch?v=ICOmWEVuM1U")
+
 
 
 
