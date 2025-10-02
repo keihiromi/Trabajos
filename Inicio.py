@@ -6,9 +6,11 @@ import streamlit as st
 st.title("DCuriosos")
 st.badge("contenido basado y relatado sobre los comics", color="red" , icon=":material/done_outline:")
 
-# Sutítulo
+# Subtítulo
 st.header("*Universo de Gotham*", divider=True)
 st.image("gotham portada.jpg", caption="Gotham City")
+
+#Introducción de la página
 st.write(
 """
 Bienvenido a las sombras.
@@ -27,4 +29,5 @@ Esta es tu entrada a un mundo de leyendas, donde cada máscara oculta una histor
 Prepárate para descubrir los orígenes, las motivaciones y el legado de los héroes que han hecho del universo de Batman un mito eterno.
 
 """
+
     )
