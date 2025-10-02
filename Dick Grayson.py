@@ -2,6 +2,7 @@
 import streamlit as st
 
 #--------------------- Contenido del sitio -----------------------#
+#Sección Inicial
 st.set_page_config(
     page_title="Dick Grayson",
     page_icon=":circus_tent:"
@@ -48,3 +49,4 @@ _Dick Grayson no es solo el primer Robin. Es el corazón de la Bat-familia, un l
 col1.image("grayson2.png", caption="**<<I’m not Bruce. I’m never gonna be Bruce. I’m me.>>**")
 
 col2.video("https://www.youtube.com/watch?v=ix5gGs7L5RA ")
+
