@@ -1,9 +1,13 @@
+#Importar streamlit
 import streamlit as st
 
+#--------------------- Contenido del sitio -----------------------#
 st.set_page_config(
     page_title="Dick Grayson",
     page_icon=":circus_tent:"
     )
+
+# Nombre e introducción de la sección de la página
 st.header("")
 st.title(
 """
@@ -16,6 +20,7 @@ st.badge("Página verificada y visitada por los más curiosos", color="blue", ic
 
 st.divider()
 
+# Nombre e introducción de la sección de la página
 st.image("grayson.jpg")
     
 st.header("Historia", divider=True)
@@ -41,4 +46,5 @@ _Dick Grayson no es solo el primer Robin. Es el corazón de la Bat-familia, un l
 """
            )
 col1.image("grayson2.png", caption="**<<I’m not Bruce. I’m never gonna be Bruce. I’m me.>>**")
+
 col2.video("https://www.youtube.com/watch?v=ix5gGs7L5RA ")
