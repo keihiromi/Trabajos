@@ -1,9 +1,13 @@
+#Importar streamlit
 import streamlit as st
 
+#-------------------------------- Contenido del sitio---------------------------#
+#Sección Inicial
 st.set_page_config(
     page_title="Jason Todd",
     page_icon=":boom:"
     )
+# Nombre e introducción de la sección de la página
 st.header("")
 st.title(
 """
@@ -18,6 +22,7 @@ st.badge("Página verificada y visitada por los más curiosos", color="red", ico
 
 st.divider()
 
+# Imagen del personaje,Subtítulo y contenido
 st.image("red hood.jpg")
     
 st.header("Historia", divider=True)
@@ -63,4 +68,5 @@ lo que convirtió a Jason Todd en un personaje muy popular y en una figura centr
 """
            )
 col1.image("final.jpg", caption="**<<I'm not talking about killing Penguin or Two-Face or Riddler. I'm talking about him. Just him. And doing it because… because he took me away from you.>>**")
+
 col2.video("https://youtu.be/gTY_N9de_fU?si=LjWY9B8w7ErgWKDr")
